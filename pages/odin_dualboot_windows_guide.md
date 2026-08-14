@@ -38,6 +38,6 @@ It will also divide your available storage in half between the two operating sys
 
 ## Installation Steps:
 
-1. [Preparing Windows Odin and Files](https://github.com/ProjectValhalla/OdinMultiBootGuides/blob/main/pages/preparing_windows_files.md)
+1. [Preparing Windows Odin and Files](https://github.com/imperador/OdinMultiBootGuides/blob/main/pages/preparing_windows_files.md)
 
-2. [Installing Windows](https://github.com/ProjectValhalla/OdinMultiBootGuides/blob/main/pages/installing_windows.md)
+2. [Installing Windows](https://github.com/imperador/OdinMultiBootGuides/blob/main/pages/installing_windows.md)
