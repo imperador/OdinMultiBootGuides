@@ -23,6 +23,8 @@ The device will be restarted and entering Fastboot menu again after you select *
 
 Enjoy!
 
+Note: You can install the [OdinControlApp](https://github.com/imperador/OdinMultiBootGuides/releases/download/Downloads/OdinControlApp.zip) in your device now
+
 ## Returning to Android Only
 
 Boot the device into Fastboot by powering off the device and press **Volume Down + Power** until you see the Green START screen. 
