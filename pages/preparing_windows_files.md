@@ -29,4 +29,4 @@ The Odin will reboot to fresh start Android when the configuration has completed
 
 ## Step 2
 
-[Installing Windows](https://github.com/ProjectValhalla/OdinMultiBootGuides/blob/main/pages/installing_windows.md)
+[Installing Windows](https://github.com/imperador/OdinMultiBootGuides/blob/main/pages/installing_windows.md)
